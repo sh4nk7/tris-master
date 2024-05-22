@@ -24,13 +24,11 @@ homepage:            https://github.com/sh4nk7/tris-master
 
 -- The package author(s).
 author:              Dimonte Giuseppe <giuseppe.dimonte@studenti.unipr.it>
-					 Nobili Lorenzo <lorenzo.nobili@studenti.unipr.it>
 
 
 -- An email address to which users can send suggestions, bug reports, and 
 -- patches.
-maintainer:          lorenzo.nobili@studenti.unipr.it
-					 giuseppe.dimonte@studenti.unipr.it
+maintainer:   		 giuseppe.dimonte@studenti.unipr.it
 
 -- A copyright notice.
 -- copyright:           
